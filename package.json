@@ -1,0 +1,9 @@
+{
+  "name": "complete-construction-wintersville-export",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Unmodified published website export, with a copy-only Netlify build.",
+  "engines": { "node": ">=20" },
+  "scripts": { "build": "node scripts/build.mjs" }
+}

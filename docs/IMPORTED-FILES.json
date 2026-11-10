@@ -1,0 +1,167 @@
+[
+  {
+    "path": "index.html",
+    "bytes": 637,
+    "sha256": "5967b6cb145c9a03d2205208f2ac9ac9333d12350cbc0646ad07f6c7346cf880"
+  },
+  {
+    "path": "_redirects",
+    "bytes": 19,
+    "sha256": "6036983e5fc00f0169c9e939b1816ed771eee00e27f2fcc517b819041460b9ef"
+  },
+  {
+    "path": "_headers",
+    "bytes": 168,
+    "sha256": "94cf655423a5cf6191b927fdb304498c36271629a1890d8a3978f0ae12b748a7"
+  },
+  {
+    "path": "images/README.md",
+    "bytes": 757,
+    "sha256": "aaa2e432c060f8de6d6947cebd48bac06dedccae481443658254efdf65dcfe1f"
+  },
+  {
+    "path": "images/home-concept.png",
+    "bytes": 3219674,
+    "sha256": "55b9b3db45c129e744862d857f9ab66aa0728126a5e7a61cd937cc7f20b4604c"
+  },
+  {
+    "path": "assets/index-BpSdeLpW.js",
+    "bytes": 256190,
+    "sha256": "e07733c363846c0e0ccee134c1fd935eac674aa7c944d7da129fec72684abc9c"
+  },
+  {
+    "path": "assets/index-CxaIzeh3.css",
+    "bytes": 46857,
+    "sha256": "b4bc715b13abfecce7b3eedf252fe52cc966045ee20c5a426e9e81ebdcb84d4a"
+  },
+  {
+    "path": "images/projects/half-bath-overview.jpg",
+    "bytes": 244492,
+    "sha256": "c5caed8f86b337ede69452ce1c6fb3802a738e4fa359b17cee342cc6d75676ca"
+  },
+  {
+    "path": "images/projects/garage-overview.jpg",
+    "bytes": 162099,
+    "sha256": "7bb993a74b06cc3dcd4b8a1d87ce2d20e39793984d1b0fdee93c4fb86def9013"
+  },
+  {
+    "path": "images/projects/french-doors-framing.jpg",
+    "bytes": 196066,
+    "sha256": "0763dd7a8b5bb80cfb72132d470b0cd59d20c2746683fff0b25a2aa68002fbdb"
+  },
+  {
+    "path": "images/projects/french-doors-after.jpg",
+    "bytes": 192813,
+    "sha256": "6848188f0bca0c7e1122d0ff02aeb1b0f1190026ea98c6648573f78bab7f498e"
+  },
+  {
+    "path": "images/projects/staircase-progress.jpg",
+    "bytes": 223104,
+    "sha256": "07e13e761885f1fca91eea7133718a68b23c7b332d50e9259edeb33b011d8f0f"
+  },
+  {
+    "path": "images/projects/bathroom-overview.jpg",
+    "bytes": 261755,
+    "sha256": "47b9c39d8c3ba47332eba9ba578f1d21119964c7cd6ab45767fa27c510029459"
+  },
+  {
+    "path": "images/projects/staircase-front.jpg",
+    "bytes": 176862,
+    "sha256": "a802a9ca8ada1b41f75230ec4527f4187271c03f371b341549440194d443b8ff"
+  },
+  {
+    "path": "images/projects/staircase-treads.jpg",
+    "bytes": 279011,
+    "sha256": "cb3879febfa385b8cf807e0743eb146b6bd0129e59252ead5adf2bab18be2233"
+  },
+  {
+    "path": "images/projects/garage-storage.jpg",
+    "bytes": 114870,
+    "sha256": "6ce36ec86988812ffad8cb3f12a0502d4b1c0dadbf4ef9132f34b578e1893bd7"
+  },
+  {
+    "path": "images/projects/deck-front.jpg",
+    "bytes": 109222,
+    "sha256": "37a88982f277188006bca987c84297b9921b11c5ee180eac872f0fa5c692358f"
+  },
+  {
+    "path": "images/projects/deck-side.jpg",
+    "bytes": 102409,
+    "sha256": "5f186b7c228b08cff6e220667219d76255522a776e0008e2f7fe11411abc97c3"
+  },
+  {
+    "path": "images/projects/deck-overview.jpg",
+    "bytes": 103159,
+    "sha256": "e953ef16ccf88dd1f30bfd6eb1c3fa29323279f748eecdcb84f96ba04da1e407"
+  },
+  {
+    "path": "images/projects/garage-ceiling.jpg",
+    "bytes": 100903,
+    "sha256": "bf863655c83ccf84e5c5716513ad0810cf3f38be57a6d1424e4f10c3fa9602e8"
+  },
+  {
+    "path": "images/projects/garage-lighting.jpg",
+    "bytes": 107807,
+    "sha256": "4c40005e362ebff2bf4c09aacf1641329962db858c0cf1df159706127b77f584"
+  },
+  {
+    "path": "images/projects/README.md",
+    "bytes": 1024,
+    "sha256": "03867cb2d6c2fe8ad799a78fdf9bd4d464e9ead4acfcbf35f17b6d4183f2eaee"
+  },
+  {
+    "path": "images/projects/bathroom-toilet.jpg",
+    "bytes": 268440,
+    "sha256": "418f358640fd1be1ca58d8fd9a64d47da58824c2f03213d077f57cbf7f69964a"
+  },
+  {
+    "path": "images/projects/half-bath-vanity.jpg",
+    "bytes": 304530,
+    "sha256": "0728130484785591fd790c452938a1f7b620a43837e539dad8b6baadac172eff"
+  },
+  {
+    "path": "images/projects/bathroom-demolition-wide.jpg",
+    "bytes": 384044,
+    "sha256": "e0666a813730f09914308337d14797e0d84cff668330e436789bf63e08539ff7"
+  },
+  {
+    "path": "images/projects/staircase-side.jpg",
+    "bytes": 211580,
+    "sha256": "3b05d026a5d59601ffd9c37e92ffb45bc806cc6335cb2c7e10b02b05737873ef"
+  },
+  {
+    "path": "images/projects/french-doors-opening.jpg",
+    "bytes": 230696,
+    "sha256": "b77d0ecd1682e34a53b4ef49978630f721e1aeaf4a695b41be271a6ed3b896cd"
+  },
+  {
+    "path": "images/projects/bathroom-demolition-detail.jpg",
+    "bytes": 483997,
+    "sha256": "6f780139e80c4d2bde64bf1b9e139a9a1562f3d231c282d9684e11ec826fd68d"
+  },
+  {
+    "path": "images/projects/bathroom-vanity.jpg",
+    "bytes": 197857,
+    "sha256": "9bff9ac33c9e312f0b09cca018236aa8b88f5381d79a96fb43fec5c482cfa3d7"
+  },
+  {
+    "path": "images/projects/bathroom-shower.jpg",
+    "bytes": 178335,
+    "sha256": "df4b811baaad48f42c4d211d628018aa53eba8e549aa65e6f18db21e342cfabd"
+  },
+  {
+    "path": "images/projects/deck-detail.jpg",
+    "bytes": 102078,
+    "sha256": "3cbcf8e391496983eac69483df5ae3878a5449a8577a6f790967c71b7ceadc68"
+  },
+  {
+    "path": "images/projects/staircase-top.jpg",
+    "bytes": 195484,
+    "sha256": "477ae6893df68d79f43973a77809e44f1f46bf470a8bd3727a02156d9264d771"
+  },
+  {
+    "path": "images/projects/staircase-landing.jpg",
+    "bytes": 177558,
+    "sha256": "2068079e31d590aec3345ac98ff2717989850f57e0b1db3ff8500c43bf13768d"
+  }
+]
